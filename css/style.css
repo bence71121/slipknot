@@ -1,0 +1,11 @@
+body{}
+
+.ht{background-image: url(../image/sk-site.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;}
+
+.red{background-color: red;
+     width: 100%;
+     height: 100%;}    
